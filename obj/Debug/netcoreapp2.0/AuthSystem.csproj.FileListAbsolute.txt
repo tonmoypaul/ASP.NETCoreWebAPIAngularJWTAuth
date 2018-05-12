@@ -1,0 +1,11 @@
+c:\repos\ASP.NETCoreWebAPIAngularJWTAuth\bin\Debug\netcoreapp2.0\AuthSystem.deps.json
+c:\repos\ASP.NETCoreWebAPIAngularJWTAuth\bin\Debug\netcoreapp2.0\AuthSystem.runtimeconfig.json
+c:\repos\ASP.NETCoreWebAPIAngularJWTAuth\bin\Debug\netcoreapp2.0\AuthSystem.runtimeconfig.dev.json
+c:\repos\ASP.NETCoreWebAPIAngularJWTAuth\bin\Debug\netcoreapp2.0\AuthSystem.dll
+c:\repos\ASP.NETCoreWebAPIAngularJWTAuth\bin\Debug\netcoreapp2.0\AuthSystem.pdb
+c:\repos\ASP.NETCoreWebAPIAngularJWTAuth\obj\Debug\netcoreapp2.0\AuthSystem.csprojAssemblyReference.cache
+c:\repos\ASP.NETCoreWebAPIAngularJWTAuth\obj\Debug\netcoreapp2.0\AuthSystem.csproj.CoreCompileInputs.cache
+c:\repos\ASP.NETCoreWebAPIAngularJWTAuth\obj\Debug\netcoreapp2.0\AuthSystem.AssemblyInfoInputs.cache
+c:\repos\ASP.NETCoreWebAPIAngularJWTAuth\obj\Debug\netcoreapp2.0\AuthSystem.AssemblyInfo.cs
+c:\repos\ASP.NETCoreWebAPIAngularJWTAuth\obj\Debug\netcoreapp2.0\AuthSystem.dll
+c:\repos\ASP.NETCoreWebAPIAngularJWTAuth\obj\Debug\netcoreapp2.0\AuthSystem.pdb
