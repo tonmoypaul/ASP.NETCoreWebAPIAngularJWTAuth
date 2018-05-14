@@ -1,3 +1,5 @@
+import { AlertComponent } from './components/alert/alert.component';
+import { AlertService } from './_services/alert.service';
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { FormsModule } from '@angular/forms';
@@ -16,7 +18,8 @@ import { CounterComponent } from './components/counter/counter.component';
         NavMenuComponent,
         CounterComponent,
         FetchDataComponent,
-        HomeComponent
+        HomeComponent,
+        AlertComponent
     ],
     imports: [
         CommonModule,
@@ -29,6 +32,9 @@ import { CounterComponent } from './components/counter/counter.component';
             { path: 'fetch-data', component: FetchDataComponent },
             { path: '**', redirectTo: 'home' }
         ])
+    ],
+    providers: [
+        AlertService
     ]
 })
 export class AppModuleShared {
